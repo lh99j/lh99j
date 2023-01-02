@@ -8,6 +8,11 @@
  
  ---
  
+ ### Solved ac
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rmfos5813)](https://solved.ac/profile/rmfos5813/)
+
+ ---
+ 
  [![trophy](https://github-profile-trophy.vercel.app/?username=lh99j&row=1)](https://github.com/ryo-ma/github-profile-trophy)
  
  ---
