@@ -11,9 +11,7 @@
  ### Solved ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rmfos5813)](https://solved.ac/profile/rmfos5813/)
 
-
 <!--
-
 
  ---
  
