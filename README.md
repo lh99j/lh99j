@@ -1,3 +1,4 @@
+<div align ="center">
 ### <p align="center" >임형준(lh99j)</p>
 ##### <p align="center">(AOS 꿈나무)</p>
 ---
@@ -33,9 +34,9 @@
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=lh99j&row=1)](https://github.com/ryo-ma/github-profile-trophy)
  
- ---
  
  ![lh99j's github stats](https://github-readme-stats.vercel.app/api?username=lh99j&show_icons=true)
  [![lh99j's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lh99j&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/lh99j)
 
 
+</div>
