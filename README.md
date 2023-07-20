@@ -1,6 +1,5 @@
 ### <p align="center">임형준(lh99j)</p>
 ### <p align="center">AOS 개발자</p>
-<br></br>
 ---
 <br></br>
 
