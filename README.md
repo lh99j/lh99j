@@ -2,6 +2,7 @@
 ### <p align="center">AOS 개발자</p>
 <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a> 
 <a href="https://lh99j.github.io"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat&logo=GitHub Pages&logoColor=white"/><a/>
+<a href="https://lh99j.github.io"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat&logo=GitHub Pages&logoColor=white"/>깃 블로그<a/>
 
 
  ### <p align="center">😀My Skills😀</p>
