@@ -1,8 +1,15 @@
 ### <p align="center">임형준(lh99j)</p>
 ### <p align="center">AOS 개발자</p>
+<br>
+<br>
+
+### <p align="center">My portfolio</p>
+<p align="center">
 <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a> 
 <a href="https://lh99j.github.io"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat&logo=GitHub Pages&logoColor=white"/><a/>
 <a href="https://lh99j.github.io/myblog/"><img src="https://img.shields.io/badge/GitHub Blog-222222?style=flat&logo=GitHub&logoColor=white"/><a/>
+</p>
+---
 
 
  ### <p align="center">😀My Skills😀</p>
