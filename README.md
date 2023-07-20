@@ -12,7 +12,15 @@
 
  ### <p align="center">😀My Skills😀</p>
 
-<p align="center"><img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=white"/>  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat&logo=GitHub Pages&logoColor=white"/>  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=Java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>  
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>  
+<img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat&logo=GitHub Pages&logoColor=white"/>  
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ IDEA-FF61F6?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
+</p>
  
  ---
  
