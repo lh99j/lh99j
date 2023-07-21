@@ -1,8 +1,6 @@
 <div align ="center">
- 
 ### <p align="center" >임형준(lh99j)</p>
 ##### <p align="center">(AOS 꿈나무)</p>
-
 ---
 
 #### <p align="center">My portfolio</p>
@@ -13,7 +11,7 @@
 </p>
 
 
- #### <p align="center">😀My Skills😀</p>
+ #### <p align="center">Often I used</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white"> 
@@ -24,20 +22,17 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> 
 </p>
  
- ---
  
- ### <p align="center">My CodingTest(Backjoon)</p>
+ 
+ #### <p align="center">My Koding Skill</p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rmfos5813)](https://solved.ac/profile/rmfos5813/)
 
+---
+<br>
 
+#### <p align="center">My Study log</p>
 
- ---
- 
- [![trophy](https://github-profile-trophy.vercel.app/?username=lh99j&row=1)](https://github.com/ryo-ma/github-profile-trophy)
- 
- 
- ![lh99j's github stats](https://github-readme-stats.vercel.app/api?username=lh99j&show_icons=true)
  [![lh99j's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lh99j&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/lh99j)
 
 
