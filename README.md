@@ -1,6 +1,9 @@
 <div align ="center">
+ 
 ### <p align="center" >임형준(lh99j)</p>
+
 ##### <p align="center">(AOS 꿈나무)</p>
+
 ---
 
 #### <p align="center">My portfolio</p>
