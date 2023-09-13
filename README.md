@@ -8,7 +8,7 @@
 
 #### <p align="center">My portfolio</p>
 <p align="center">
-<a href=""><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
+<a href="https://catnip-opinion-e71.notion.site/lh99j-d7bed36f9d774e6e84cb5021f14ea6d1?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> 
 <a href="https://www.instagram.com/lh_99j"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lh_99j"/></a> 
 <a href="https://lh99j.github.io"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat&logo=GitHub Pages&logoColor=white"/><a/>
 <a href="https://lh99j.github.io/myblog/"><img src="https://img.shields.io/badge/GitHub Blog-222222?style=flat&logo=GitHub&logoColor=white"/><a/>
