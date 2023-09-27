@@ -32,7 +32,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rmfos5813)](https://solved.ac/profile/rmfos5813/)
 
-// #### <p align="center">I am Studing~~</p>
+<!--#### <p align="center">I am Studing~~</p>-->
 
 #### <p align="center">My Study log</p>
 
