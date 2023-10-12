@@ -2,8 +2,10 @@
 <a href="https://catnip-opinion-e71.notion.site/lh99j-d7bed36f9d774e6e84cb5021f14ea6d1?pvs=4" style="margin-right:10px;"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/lh_99j" style="margin-right:10px;"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lh_99j"/></a> 
 <a href="https://lh99j.github.io" style="margin-right:10px;"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat&logo=GitHub Pages&logoColor=white"/><a/>
-<a href="https://lh99j.github.io/myblog/"><img src="https://img.shields.io/badge/GitHub Blog-222222?style=flat&logo=GitHub&logoColor=white"/><a/>
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=T-story)](https://github.com/loosie/github-readme-tistory-card)
+<a href="https://lh99j.github.io/myblog/" style="margin-right:10px;"><img src="https://img.shields.io/badge/GitHub Blog-222222?style=flat&logo=GitHub&logoColor=white"/><a/>
+<a href="https://lh99j.github.io/myblog/" style="margin-right:10px;"><img src="https://img.shields.io/badge/GitHub Blog-222222?style=flat&logo=GitHub&logoColor=white"/><a/>
+<a href="https://li-yo.tistory.com" style="margin-right:10px;"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"> 
+</a>
 
 </p>
 
@@ -17,12 +19,9 @@ I want to become a developer who continues to find my shortcomings and fill in t
 
 ### 🌟DEV's log
 <div style="display:flex; flex-direction:row;">
-    <a href="https://anjji.tistory.com">
-        <img src="https://img.shields.io/badge/
-        Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
     
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=anjji&postId=default)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=anjji&theme=default)](https://github.com/loosie/github-readme-tistory-card)
+
 </div><br>
 
 <br>
