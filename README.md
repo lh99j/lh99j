@@ -4,7 +4,7 @@
 <a href="https://lh99j.github.io" style="margin-right:10px;"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat&logo=GitHub Pages&logoColor=white"/><a/>
 <a href="https://lh99j.github.io/myblog/" style="margin-right:10px;"><img src="https://img.shields.io/badge/GitHub Blog-222222?style=flat&logo=GitHub&logoColor=white"/><a/>
 <a href="https://lh99j.github.io/myblog/" style="margin-right:10px;"><img src="https://img.shields.io/badge/GitHub Blog-222222?style=flat&logo=GitHub&logoColor=white"/><a/>
-<a href="https://li-yo.tistory.com" style="margin-right:10px;"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"> 
+<a href="https://anjji.tistory.com" style="margin-right:10px;"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"> 
 </a>
 
 </p>
