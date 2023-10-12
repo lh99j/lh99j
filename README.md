@@ -11,8 +11,7 @@ Sometimes I develop using the Java language. 🤭
 
 I want to become a developer who continues to find my shortcomings and fill in the gaps.
 
-<br></br><br></br>
-
+<br></br>
  ### 🌟 Skills & Language
 
 <p>
