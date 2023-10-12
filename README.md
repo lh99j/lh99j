@@ -12,6 +12,7 @@ Sometimes I develop using the Java language. 🤭
 I want to become a developer who continues to find my shortcomings and fill in the gaps.   
 
 <br>
+
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://anjji.tistory.com">
