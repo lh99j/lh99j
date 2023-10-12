@@ -22,6 +22,7 @@ I want to become a developer who continues to find my shortcomings and fill in t
     
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/
 api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
+
 </div><br>
 
 <br>
