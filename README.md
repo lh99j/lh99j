@@ -20,9 +20,7 @@ I want to become a developer who continues to find my shortcomings and fill in t
         Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
     
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/
-api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
-
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=anjji&postId=default)](https://github.com/loosie/github-readme-tistory-card)
 </div><br>
 
 <br>
