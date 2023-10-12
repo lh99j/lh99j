@@ -32,5 +32,5 @@ I want to become a developer who continues to find my shortcomings and fill in t
 
  ### 🌟My Farm
  
-<img src="./profile-3d-contrib/profile-night-rainbow.svg width="50%" height="50%"/>
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 </p>
