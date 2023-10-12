@@ -21,7 +21,7 @@ As a challenger who never gives up, I will not get frustrated or give up even if
 ### 🌟DEV's log
 <div style="display:flex; flex-direction:row;">
     
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=anjji&theme=default)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=anjji&theme=default)](https://anjji.tistory.com)
 
 </div><br>
 
