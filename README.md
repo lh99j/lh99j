@@ -3,7 +3,7 @@
 <a href="https://www.instagram.com/lh_99j" style="margin-right:10px;"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lh_99j"/></a> 
 <a href="https://lh99j.github.io" style="margin-right:10px;"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat&logo=GitHub Pages&logoColor=white"/><a/>
 <a href="https://lh99j.github.io/myblog/"><img src="https://img.shields.io/badge/GitHub Blog-222222?style=flat&logo=GitHub&logoColor=white"/><a/>
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?nameT-story)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=T-story)](https://github.com/loosie/github-readme-tistory-card)
 
 </p>
 
