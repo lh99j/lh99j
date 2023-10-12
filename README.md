@@ -10,7 +10,7 @@ I'm Creative Android Developer with a Passion for Learning 🤗
 Sometimes I develop using the Java language. 🤭
 
 I want to become a developer who continues to find my shortcomings and fill in the gaps.   
-
+<br>
 
  ### 🌟 Skills & Language
 
