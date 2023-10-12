@@ -30,7 +30,7 @@ I want to become a developer who continues to find my shortcomings and fill in t
 
 <br>
 
- ### 🌟My Koding Skill
+ ### 🌟My Farm
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 </p>
