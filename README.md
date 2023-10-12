@@ -28,7 +28,5 @@ I want to become a developer who continues to find my shortcomings and fill in t
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rmfos5813)](https://solved.ac/profile/rmfos5813/)
 
-<!--#### <p align="center">I am Studing~~</p>-->
-<p style = "width:100px; height: 100px">
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 </p>
