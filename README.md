@@ -10,6 +10,19 @@ I'm Creative Android Developer with a Passion for Learning 🤗
 Sometimes I develop using the Java language. 🤭
 
 I want to become a developer who continues to find my shortcomings and fill in the gaps.   
+
+<br>
+## 💻 DEV's log 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://anjji.tistory.com">
+        <img src="https://img.shields.io/badge/
+        Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+  
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/
+api?name=anjji&theme=default)](https://anjji.tistory.com)
+</div><br>
+
 <br>
 
  ### 🌟 Skills & Language
