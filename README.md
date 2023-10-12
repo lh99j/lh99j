@@ -13,15 +13,15 @@ I want to become a developer who continues to find my shortcomings and fill in t
 
 <br>
 
-## 💻 DEV's log 💻
+### DEV's log
 <div style="display:flex; flex-direction:row;">
     <a href="https://anjji.tistory.com">
         <img src="https://img.shields.io/badge/
         Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-  
+    
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/
-api?name=anjji&theme=default)](https://anjji.tistory.com)
+api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
 </div><br>
 
 <br>
