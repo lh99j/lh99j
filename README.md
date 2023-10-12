@@ -14,6 +14,7 @@ I'm Creative Android Developer with a Passion for Learning 🤗
 Sometimes I develop using the Java language. 🤭
 
 I want to become a developer who continues to find my shortcomings and fill in the gaps.   
+As a challenger who never gives up, I will not get frustrated or give up even if I fail.  
 
 <br>
 
