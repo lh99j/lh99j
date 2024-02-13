@@ -1,14 +1,15 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Developer%20chasing%20a%20dream&fontSize=50&color=0:8871e5,100:b678c4&stroke=b678c4)
 
-<p>
+<div>
 <a href="https://catnip-opinion-e71.notion.site/lh99j-d7bed36f9d774e6e84cb5021f14ea6d1?pvs=4" style="margin-right:10px;"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/lh_99j" style="margin-right:10px;"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lh_99j"/></a> 
 <a href="https://lh99j.github.io" style="margin-right:10px;"><img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat&logo=GitHub Pages&logoColor=white"/><a/>
 <a href="https://lh99j.github.io/myblog/" style="margin-right:10px;"><img src="https://img.shields.io/badge/GitHub Blog-222222?style=flat&logo=GitHub&logoColor=white"/><a/>
 <a href="https://anjji.tistory.com" style="margin-right:10px;"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"> 
 </a>
+</div>
+<h6 style="padding-left:200px">(Click Me!)</h6>
 
-</p>
 
 
 I'm Creative Android Developer with a Passion for Learning 🤗  
