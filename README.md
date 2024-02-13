@@ -7,8 +7,13 @@
 <a href="https://lh99j.github.io/myblog/" style="margin-right:10px;"><img src="https://img.shields.io/badge/GitHub Blog-222222?style=flat&logo=GitHub&logoColor=white"/><a/>
 <a href="https://anjji.tistory.com" style="margin-right:10px;"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"> 
 </a>
-</div>
+
 <h6 style="padding-left:200px">(Click Me!)</h6>
+
+</div>
+
+<br>
+<p>
 
 
 
@@ -21,6 +26,8 @@ As a challenger who never gives up, I will not get frustrated or give up even if
 I want to become a developer who always moves forward and chasing dreams.
 
 Recently, I have been enjoying “recording” so I am recording my daily life.
+
+</p>
 
 <br>
 
