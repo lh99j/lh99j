@@ -8,7 +8,7 @@
 <a href="https://anjji.tistory.com" style="margin-right:10px;"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"> 
 </a>
 
-<h6 style="padding-left:200px">(Click Me!)</h6>
+<h6 style="padding-left:200px">(Click on the logo above)😋</h6>
 
 </div>
 
