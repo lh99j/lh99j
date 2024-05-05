@@ -1,4 +1,5 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Developer%20chasing%20a%20dream&fontSize=50&color=0:8871e5,100:b678c4&stroke=b678c4)
+<!-- ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Developer%20chasing%20a%20dream&fontSize=50&color=0:8871e5,100:b678c4&stroke=b678c4) -->
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20lh99j's%20GitHub&fontSize=50&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 <div>
 <a href="https://catnip-opinion-e71.notion.site/lh99j-d7bed36f9d774e6e84cb5021f14ea6d1?pvs=4" style="margin-right:10px;"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
