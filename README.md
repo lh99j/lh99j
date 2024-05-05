@@ -75,7 +75,9 @@ The following is a technique I have used on Android.
 
 <br>
 
+<!--
  ### 🌟My Farm
  
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 </p>
+-->
