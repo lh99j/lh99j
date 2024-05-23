@@ -48,7 +48,7 @@ Recently, I have been enjoying “recording” so I am recording my daily life.
 
 
 <!-- 티스토리 openApi 종료로 더 이상 Tistory-card를 사용할 수 없다............. -->
-<!-- [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=anjji&theme=default)](https://anjji.tistory.com) -->
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=anjji&theme=default)](https://anjji.tistory.com)
 
 </div><br>
 
