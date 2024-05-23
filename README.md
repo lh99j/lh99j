@@ -1,5 +1,7 @@
 <!-- ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Developer%20chasing%20a%20dream&fontSize=50&color=0:8871e5,100:b678c4&stroke=b678c4) -->
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20lh99j's%20GitHub&fontSize=50&color=0:8871e5,100:b678c4&stroke=b678c4)
+<!-- ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20lh99j's%20GitHub&fontSize=50&color=0:8871e5,100:b678c4&stroke=b678c4) -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=30&pause=1000&color=CBAACB&random=false&width=435&height=60&lines=Welcome+lh99j's+World!)](https://git.io/typing-svg)
 
 <div>
 <a href="https://catnip-opinion-e71.notion.site/lh99j-d7bed36f9d774e6e84cb5021f14ea6d1?pvs=4" style="margin-right:10px;"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
