@@ -61,6 +61,7 @@ The programming language I mainly use is Kotlin.
 
 The following is a technique I have used on Android.
 
+<!--
 - MVVM
 - Paging
 - Retrofit2
@@ -68,6 +69,8 @@ The following is a technique I have used on Android.
 - rxKotlin
 - Coroutine
 - Data Binding
+
+-->
 
 </p>
 
