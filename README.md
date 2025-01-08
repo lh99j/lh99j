@@ -39,12 +39,6 @@ Recently, I have been enjoying “recording” so I am recording my daily life.
     <a href="https://anjji.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-    <a href="https://velog.io/@lh99j/posts">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lh99j)](https://velog.io/@lh99j)
-
 
 
 <!-- 티스토리 openApi 종료로 더 이상 Tistory-card를 사용할 수 없다............. -->
